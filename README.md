@@ -14,4 +14,12 @@ Data cleaning is crucial because raw data often contains errors, missing values,
 6. **Handle Outliers:** Evaluate outliers and decide whether to exclude, transform, or correct them based on their impact on the analysis.
 7. **Validate Data:** Verify the accuracy and integrity of the cleaned dataset through validation checks and comparisons with external sources.
 
+**Getting Started:**
+To get started with data cleaning, simply clone or download this repository and explore the provided resources.
+
+**Technology Prerequisites:**
+Before you start working with this repository, make sure you have the following technologies installed and configured:
+- **Python**: The data cleaning scripts in this repository are written in Python. Make sure you have Python installed on your system. You can download Python from [here](https://www.python.org/downloads/).
+- **Jupyter Notebook**: Recommend using Jupyter Notebook for interactive data cleaning and analysis. Download [here](https://jupyter.org/install).
+
 Email me at alaukik.varun@gmail.com if you need any assistance with this repository.
