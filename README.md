@@ -15,7 +15,7 @@ Data cleaning is crucial because raw data often contains errors, missing values,
 7. **Validate Data:** Verify the accuracy and integrity of the cleaned dataset through validation checks and comparisons with external sources.
 
 **Getting Started:**
-To get started with data cleaning, simply clone or download this repository and explore the provided resources.
+To get started with the project, simply clone or download this repository and explore the provided resources.
 
 **Technology Prerequisites:**
 Before you start working with this repository, make sure you have the following technologies installed and configured:
